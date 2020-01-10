@@ -1,0 +1,4 @@
+yarn add start
+yarn add styled-components
+yarn add react-icons
+yarn add react-dnd-html5-backend react-dnd
